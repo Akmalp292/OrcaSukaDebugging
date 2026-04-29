@@ -5,8 +5,6 @@ Stunting Care Web Hosting adalah platform web sederhana yang dibuat untuk menduk
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/06a3e1bd-ee9b-4131-894d-8ffa1beedb38" />
 
-> Ganti screenshot di atas dengan satu foto UX dari web yang menunjukkan tampilan halaman utama atau alur pengguna.
-
 ## Table of Contents
 - [Tentang Proyek](#tentang-proyek)
 - [Tahap Desain Web](#tahap-desain-web)
