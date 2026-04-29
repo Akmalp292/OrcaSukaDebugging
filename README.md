@@ -3,7 +3,7 @@
 ## Description
 Stunting Care Web Hosting adalah platform web sederhana yang dibuat untuk mendukung kampanye edukasi kesehatan dan pencegahan stunting. Web ini menghadirkan pengalaman UX yang jelas, navigasi mudah, serta menampilkan informasi penting tentang nutrisi, layanan, dan peraturan privasi.
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/06a3e1bd-ee9b-4131-894d-8ffa1beedb38" />
+<img width="1183" height="589" alt="Image" src="https://github.com/user-attachments/assets/6c215e3d-2add-4ae4-9a19-ea4ec2c42f90" />
 
 ## Table of Contents
 - [Tentang Proyek](#tentang-proyek)
