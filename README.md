@@ -114,7 +114,7 @@ npm start
 
 ## Contributors
 <div align="center">
-  <img width="640" height="640" alt="Image" src="https://github.com/user-attachments/assets/2beabd29-a14d-418e-be95-778919d44a06" />
+  <img src="https://github.com/user-attachments/assets/df5e1814-f4af-46af-8f47-f3f0a306a46b" alt="Contributor 2" width="120" height="120" style="margin: 0 10px;" />
   <img src="['link png']" alt="Contributor 2" width="120" height="120" style="margin: 0 10px;" />
   <img src="['link png']" alt="Contributor 3" width="120" height="120" style="margin: 0 10px;" />
 
