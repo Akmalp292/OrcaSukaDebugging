@@ -126,10 +126,9 @@ npm start
 > Ganti `['link png']` dengan tautan gambar contributor yang sebenarnya.
 
 ## Contact
-| Nama       | Telepon            | Email               |
-|------------|--------------------|---------------------|
-| Nama 1     | +62 812-3456-7890  | nama1@example.com   |
-| Nama 2     | +62 812-9876-5432  | nama2@example.com   |
-| Nama 3     | +62 813-1234-5678  | nama3@example.com   |
+| Nama                           | Telepon            | Email                                |
+|--------------------------------|--------------------|--------------------------------------|
+| Akmal Dwi Putra Mahardika      | +62 812-1919-5661  | akmalp292@gmail.com                  |
+| Andi Siti Maryam Shaskirana    | +62 813-1974-0181  | andisitimaryamshaskirana@gmail.com   |
+| Andi Siti Maryam Shaskirana    | +62 857-9302-7125  | rifanazka02@gmail.com                |
 
-> Gunakan nama dan kontak nyata sesuai tim. Kontak ini sama dengan daftar contributor di atas.
