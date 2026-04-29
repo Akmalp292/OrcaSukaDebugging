@@ -114,12 +114,12 @@ npm start
 
 ## Contributors
 <div align="center">
-  <img src="['link png']" alt="Contributor 1" width="120" height="120" style="margin: 0 10px;" />
+  <img width="640" height="640" alt="Image" src="https://github.com/user-attachments/assets/2beabd29-a14d-418e-be95-778919d44a06" />
   <img src="['link png']" alt="Contributor 2" width="120" height="120" style="margin: 0 10px;" />
   <img src="['link png']" alt="Contributor 3" width="120" height="120" style="margin: 0 10px;" />
 
   <p>
-    <strong>Nama 1</strong> • <strong>Nama 2</strong> • <strong>Nama 3</strong>
+    <strong>Akmal Dwi Putra Mahardika</strong> • <strong>Nama 2</strong> • <strong>Rifa Naftali Azka</strong>
   </p>
 </div>
 
@@ -130,5 +130,5 @@ npm start
 |--------------------------------|--------------------|--------------------------------------|
 | Akmal Dwi Putra Mahardika      | +62 812-1919-5661  | akmalp292@gmail.com                  |
 | Andi Siti Maryam Shaskirana    | +62 813-1974-0181  | andisitimaryamshaskirana@gmail.com   |
-| Andi Siti Maryam Shaskirana    | +62 857-9302-7125  | rifanazka02@gmail.com                |
+| Rifa Naftali Azka              | +62 857-9302-7125  | rifanazka02@gmail.com                |
 
