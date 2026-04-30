@@ -1421,6 +1421,14 @@ function nowTime(){ return new Date().toLocaleTimeString('id-ID',{hour:'2-digit'
    INIT
 ════════════════════════════════ */
 document.addEventListener('DOMContentLoaded',()=>{
+  console.log("JS jalan"); // debug
+
+  document.body.style.background = "red"; // TEST VISUAL
+
+  goPage('login');
+});
+  
+document.addEventListener('DOMContentLoaded',()=>{
   if(DB.session()){ 
     goPage('dash'); 
   } else {
