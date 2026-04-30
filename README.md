@@ -113,14 +113,19 @@ npm start
 4. Akses web di browser melalui `http://localhost:3000`.
 
 ## Contributors
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/19e68e66-553d-4312-8adf-a646e8cae09c" alt="Contributor 2" width="120" height="120" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/23585a99-5ea3-406b-829a-4cb1cd044458" alt="Contributor 2" width="120" height="120" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/df5e1814-f4af-46af-8f47-f3f0a306a46b" alt="Contributor 2" width="120" height="120" style="margin: 0 10px;" />
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/19e68e66-553d-4312-8adf-a646e8cae09c" width="120" height="120" style="border-radius: 10px;" />
+  
+  <img src="https://github.com/user-attachments/assets/23585a99-5ea3-406b-829a-4cb1cd044458" width="120" height="120" style="border-radius: 10px;" />
+  
+  <img src="https://github.com/user-attachments/assets/df5e1814-f4af-46af-8f47-f3f0a306a46b" width="120" height="120" style="border-radius: 10px;" />
+</div>
 
-  <p>
-    <strong>Akmal Dwi Putra Mahardika</strong> • <strong>Andi Siti Maryam Shaskirana</strong> • <strong>Rifa Naftali Azka</strong>
-  </p>
+<p style="text-align: center;">
+  <strong>Akmal Dwi Putra Mahardika</strong> • 
+  <strong>Andi Siti Maryam Shaskirana</strong> • 
+  <strong>Rifa Naftali Azka</strong>
+</p>
 </div>
 
 > Ganti `['link png']` dengan tautan gambar contributor yang sebenarnya.
