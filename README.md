@@ -122,7 +122,7 @@ npm start
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; width: 150px;">
-    <img src="https://github.com/user-attachments/assets/23585a99-5ea3-406b-829a-4cb1cd044458" width="120" height="120" style="border-radius: 10px; object-fit: cover;" />
+    <img src="https://github.com/user-attachments/assets/5f266944-75cc-42e0-9de6-041b5a584676" width="120" height="120" style="border-radius: 10px; object-fit: cover;" />
     <p><strong>Andi Siti Maryam Shaskirana</strong></p>
   </div>
 
