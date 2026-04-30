@@ -119,7 +119,7 @@ npm start
   <img src="https://github.com/user-attachments/assets/df5e1814-f4af-46af-8f47-f3f0a306a46b" alt="Contributor 2" width="120" height="120" style="margin: 0 10px;" />
 
   <p>
-    <strong>Akmal Dwi Putra Mahardika</strong> • <strong>Nama 2</strong> • <strong>Rifa Naftali Azka</strong>
+    <strong>Akmal Dwi Putra Mahardika</strong> • <strong>Andi Siti Maryam Shaskirana</strong> • <strong>Rifa Naftali Azka</strong>
   </p>
 </div>
 
