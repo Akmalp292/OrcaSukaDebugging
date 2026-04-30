@@ -1420,6 +1420,10 @@ function nowTime(){ return new Date().toLocaleTimeString('id-ID',{hour:'2-digit'
 /* ════════════════════════════════
    INIT
 ════════════════════════════════ */
+function initGoogleAuth(){
+  console.log("Google Auth initialized");
+}
+
 document.addEventListener('DOMContentLoaded',()=>{
   if(DB.session()){ goPage('dash'); }
   const td=new Date().toISOString().split('T')[0];
