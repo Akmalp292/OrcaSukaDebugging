@@ -1420,19 +1420,19 @@ function nowTime(){ return new Date().toLocaleTimeString('id-ID',{hour:'2-digit'
 /* ════════════════════════════════
    INIT
 ════════════════════════════════ */
-function initGoogleAuth(){
-  console.log("Google Auth initialized");
-}
+// function initGoogleAuth(){
+//   console.log("Google Auth initialized");
+// }
 
-document.addEventListener('DOMContentLoaded',()=>{
-  if(DB.session()){ goPage('dash'); }
-  const td=new Date().toISOString().split('T')[0];
-  const jt=document.getElementById('j-tgl'); if(jt) jt.min=td;
-  const ckd=document.getElementById('ck-dob'); if(ckd) ckd.max=td;
-  // Init Google OAuth after GSI library loads
-  if(typeof google!=='undefined'){ initGoogleAuth(); }
-  else { window.addEventListener('load',()=>{ if(typeof google!=='undefined') initGoogleAuth(); }); }
-});
-</script>
-</body>
-</html>
+// document.addEventListener('DOMContentLoaded',()=>{
+//   if(DB.session()){ goPage('dash'); }
+//   const td=new Date().toISOString().split('T')[0];
+//   const jt=document.getElementById('j-tgl'); if(jt) jt.min=td;
+//   const ckd=document.getElementById('ck-dob'); if(ckd) ckd.max=td;
+//   // Init Google OAuth after GSI library loads
+//   if(typeof google!=='undefined'){ initGoogleAuth(); }
+//   else { window.addEventListener('load',()=>{ if(typeof google!=='undefined') initGoogleAuth(); }); }
+// });
+// </script>
+// </body>
+// </html>
